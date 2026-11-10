@@ -1,0 +1,21 @@
+# Pastas de build
+build/
+gui/build/
+
+# Executáveis gerados
+console/sudoku
+gui/sudoku_gui
+*.o
+*.out
+*.exe
+
+# CSV gerado a cada execução do benchmark
+# (o resultado oficial fica em docs/resultados.csv)
+console/resultados.csv
+gui/resultados.csv
+
+# Editores e sistema
+.vscode/
+.idea/
+*.swp
+.DS_Store
