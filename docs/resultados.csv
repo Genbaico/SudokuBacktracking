@@ -1,0 +1,7 @@
+nivel,nome,pistas,solucoes,opt_ms,opt_chamadas,opt_retrocessos,naive_ms,naive_chamadas,naive_retrocessos,naive_interrompido
+facil,Wikipedia,30,1,0.004465,52,0,0.272164,4209,4157,0
+facil,Norvig easy01,32,1,0.0044358,50,0,0.0118212,201,151,0
+dificil,AI Escargot,23,1,0.0226378,220,161,0.746583,8970,8911,0
+dificil,Inkala 2012,21,1,2.59654,13811,13750,3.56458,49559,49498,0
+dificil,17 pistas,17,1,1.42123,6037,5972,1385.5,26590294,26590229,0
+extremo,Anti-backtracking,17,1,8.74252,58234,58169,4806.01,69175317,69175252,0
